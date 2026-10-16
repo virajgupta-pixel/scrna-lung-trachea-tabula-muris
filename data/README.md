@@ -1,8 +1,8 @@
 # Data
 
-Raw data are not committed (the two count matrices are ~96 MB and ~71 MB).
+Raw data were committed via CLI (the two count matrices are ~96 MB and ~71 MB).
 
-Required files (Tabula Muris, FACS-sorted cells, Smart-seq2), placed in the **repository root** next to the notebook:
+Required files (Tabula Muris, FACS-sorted cells, Smart-seq2) placed in the **repository root** next to the notebook:
 
 | File | Description |
 |---|---|
